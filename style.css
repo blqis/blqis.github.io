@@ -42,7 +42,7 @@ p {
 	text-align: center;
 }
 .section-title span {
-	color: #EBA307;
+	color: rgb(235,163,7, 0.7);
 }
 
 .cta {
@@ -50,7 +50,7 @@ p {
 	padding: 10px 30px;
 	color: white;
 	background-color: transparent;
-	border: 2px solid #EBA307;
+	border: 2px solid rgb(235,163,7, 0.7);
 	font-size: 2rem;
 	text-transform: uppercase;
 	letter-spacing: 0.1rem;
@@ -117,7 +117,7 @@ p {
 
 
 #header .nav-list ul li:hover a {
-	color: #EBA307;
+	color: rgb(235,163,7, 0.7);
 }
 
 
@@ -171,7 +171,7 @@ p {
 	left: 0;
 	height: 100%;
 	width: 0;
-	background-color: #EBA307;
+	background-color: rgb(235,163,7, 0.7);
 	animation: text_reveal_box 1s ease;
 	animation-delay: 0.5s;
 }
@@ -267,7 +267,7 @@ p {
 
 /* Footer */
 #footer {
-	background-image: linear-gradient(60deg, #EBA307 0%, #f9bc39 100%);
+	background-image: linear-gradient(60deg, rgb(235,163,7, 0.7) 0%, #f9bc39 100%);
 }
 #footer .footer {
 	min-height: 0px;
